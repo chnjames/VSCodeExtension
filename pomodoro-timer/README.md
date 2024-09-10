@@ -43,7 +43,7 @@
 
 ## 贡献
 
-如果你有任何建议或改进，欢迎通过 [GitHub 仓库](https://github.com/username/my-awesome-extension) 提交问题或贡献代码。
+如果你有任何建议或改进，欢迎通过 [GitHub 仓库](https://github.com/chnjames/VSCodeExtension/tree/main/pomodoro-timer) 提交问题或贡献代码。
 
 ## 许可证
 
@@ -55,7 +55,7 @@
 
 1. 克隆本仓库到本地：
    ```bash
-   git clone https://github.com/username/my-awesome-extension
+   git clone https://github.com/chnjames/VSCodeExtension/tree/main/pomodoro-timer
    ```
 
 2. 安装依赖：
