@@ -1,6 +1,6 @@
 {
   "name": "pointandwood-pomodoro-timer",
-  "displayName": "Pomodoro Timer",
+  "displayName": "Pomodoro Timer[pointandwood]",
   "description": "A Pomodoro timer for developers with customizable work/break intervals and automatic idle detection.",
   "publisher": "pointandwood",
   "version": "0.0.2",
